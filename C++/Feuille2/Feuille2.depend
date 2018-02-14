@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1518450752 source:c:\users\adai103\documents\feuille2\main.cpp
+	<iostream>
+	"jeu.h"
+
+1518508679 c:\users\adai103\documents\feuille2\include\jeu.h
+	"perso.h"
+
+1518450854 c:\users\adai103\documents\feuille2\include\perso.h
+
+1518450851 source:c:\users\adai103\documents\feuille2\src\jeu.cpp
+	"jeu.h"
+
+1518450838 source:c:\users\adai103\documents\feuille2\src\perso.cpp
+	"perso.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1518537295 source:c:\users\adai103\documents\streamed1\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+	<vector>
+
+1518602198 source:c:\users\adai103\desktop\c++\streamed1\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+	<vector>
+	<assert.h>
+
