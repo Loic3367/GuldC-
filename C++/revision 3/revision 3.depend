@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1518702942 source:c:\users\adai103\desktop\c++git\guldc-\c++\revision 3\src\joueur.cpp
+	"Joueur.h"
+
+1518702942 c:\users\adai103\desktop\c++git\guldc-\c++\revision 3\include\joueur.h
+
+1518703523 source:c:\users\adai103\desktop\c++git\guldc-\c++\revision 3\main.cpp
+	<iostream>
+	<Joueur.h>
+	<vector>
+	<stdlib.h>
+	<time.h>
+

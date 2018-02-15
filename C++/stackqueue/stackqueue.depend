@@ -4,3 +4,13 @@
 	<stack>
 	<queue>
 
+1518681028 source:c:\users\adai103\desktop\c++git\guldc-\c++\stackqueue\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<list>
+	<string>
+	<time.h>
+	<stdlib.h>
+	<algorithm>
+

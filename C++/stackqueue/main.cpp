@@ -51,29 +51,13 @@ int main()
         myNumbers.pop_front();
     }
 
-    bool listEnOrdre = false;
-    int taille = myNumbers.size();
-    std::list<int>::iterator it = myNumbers.begin();
-    std::advance(it, 1);
-
-    if (it > std::advance(it,1))
+    for (std::list<int>::iterator it = myNumbers.begin(); it!=myNumbers.end(); ++it)
     {
 
+        cout << *it << endl;
     }
-    while (!listEnOrdre)
-    {
-        listEnOrdre = true;
-        for(int i= 0; i < taille-1; i++)
-        {
-            if(myNumbers. > myNumbers.at(i+1))
-            {
-                swap(myNumbers.at(i), myNumbers.at(i+1));
-                listEnOrdre =false;
-            }
-        }
 
-        taille--;
-    }
-    std::cout << "\n";
+
+
     return 0;
 }

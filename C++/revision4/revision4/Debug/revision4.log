@@ -1,0 +1,7 @@
+﻿  revision4.cpp
+c:\users\adai103\desktop\c++git\guldc-\c++\revision4\revision4\revision4.cpp(18): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+c:\users\adai103\desktop\c++git\guldc-\c++\revision4\revision4\revision4.cpp(42): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\adai103\desktop\c++git\guldc-\c++\revision4\revision4\revision4.cpp(54): warning C4018: '<' : incompatibilité signed/unsigned
+  joueur.cpp
+  Génération de code en cours...
+  revision4.vcxproj -> C:\Users\adai103\Desktop\C++Git\GuldC-\C++\revision4\Debug\revision4.exe
